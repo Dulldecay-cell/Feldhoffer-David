@@ -1,0 +1,26 @@
+.tartaly{
+    max-width: 1000px;
+    width: 80%;
+    margin: auto;
+    padding: 1px;
+    border: 1pt solid black;
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+}
+.sepru{
+    clear: both;
+}
+img{
+    width:100%;
+}
+a{
+    color: red;
+    background-color: wheat;
+    text-decoration: none;
+}
+a:hover{
+    color: aquamarine;
+    background-color: blueviolet;
+    text-decoration: none;
+}
